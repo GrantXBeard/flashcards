@@ -16,19 +16,11 @@ In this project, we wrote a program to simulate a set of flash cards through the
 
 On the top right corner of this page, click the **Fork** button.
 
-## Setup
+## Set Up
 
-Clone down the forked repo (from your GitHub).
-
-Once you have cloned the repo, change into the directory and install the library dependencies. Run:
-
-```bash
-npm install
-```
-
-To verify that it is setup correctly, run `npm test` in your terminal.
-
-Running `node index.js` from the root should result in the game starting.
+1. Fork this repo
+2. Clone the repo to your local machine
+3. View the project in the browser by running open index.html in your terminal
 
 ## Running Your Tests
 
@@ -40,11 +32,6 @@ npm test
 
 The test results will output to the terminal.
 
-## Set Up
-
-1. Fork this repo
-2. Clone the repo to your local machine
-3. View the project in the browser by running open index.html in your terminal
 
 ## Illustrations
 
